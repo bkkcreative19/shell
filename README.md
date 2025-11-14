@@ -230,13 +230,3 @@ This shell does *not* yet support:
 
 Provided for educational use.
 Modify and redistribute freely.
-
----
-
-If you'd like, I can also generate:
-
-* **A shorter README**
-* **A more advanced README with diagrams**
-* **A DESIGN.md explaining internal architecture in depth**
-
-Just tell me!
