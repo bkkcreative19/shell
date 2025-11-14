@@ -1,7 +1,3 @@
-Here is the README rewritten cleanly in **pure Markdown**:
-
----
-
 # **myshell — A Minimal Unix-Style Shell (C++)**
 
 This project implements a small, educational Unix-like shell in modern C++17.
